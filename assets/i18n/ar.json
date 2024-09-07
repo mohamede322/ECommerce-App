@@ -1,0 +1,18 @@
+{
+    "navbar":{
+     "welcomeMsg":"اهلا",
+    "home":"الصفحة",
+    "products":"المنتجات",
+    "brands":"العلامات التجارية",
+    "categories":"الفئات",
+    "orders":"الطلبات",
+    "signout":"تسجيل خروج",
+    "cart":"السلة",
+    "wishlist":"قائمة الرغبات",
+    "language":"ع"
+},
+"home":{
+    "popularShopping":"تسوق الفئات الشعبية",
+    "recentProducts":"المنتجات الأخيرة"
+}
+}

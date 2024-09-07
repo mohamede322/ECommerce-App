@@ -1,0 +1,19 @@
+{
+  "navbar":{
+    "welcomeMsg":"Hey",
+    "home":"Home",
+    "products":"Products",
+    "brands":"Brands",
+    "categories":"Categories",
+    "orders":"Orders",
+    "signout":"SignOut",
+    "cart":"Cart",
+    "wishlist":"Wishlist",
+    "language":"en"
+    
+},
+"home":{
+  "popularShopping":"Shop Popular Categories",
+  "recentProducts":"Recent Products"
+}
+}
